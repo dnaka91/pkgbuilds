@@ -1,0 +1,12 @@
+/*/**/
+*.log
+*.sig
+*.tar.gz
+*.tar.zst
+*-LICENSE
+
+/.buildroot/
+/.vscode/
+
+/nv_new.json
+*.json~
