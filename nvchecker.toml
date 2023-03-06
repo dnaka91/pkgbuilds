@@ -2,3 +2,38 @@
 oldver = "nv.json"
 newver = "nv_new.json"
 
+[cargo-hatch]
+source = "github"
+github = "dnaka91/cargo-hatch"
+use_max_tag = true
+prefix = "v"
+
+[ffprog]
+source = "github"
+github = "dnaka91/ffprog"
+use_max_tag = true
+prefix = "v"
+
+[graphite-grub-theme]
+source = "github"
+github = "vinceliuice/Graphite-gtk-theme"
+use_max_tag = true
+from_pattern = '(\d{4})-(\d{2})-(\d{2})'
+to_pattern = '\1.\2.\3'
+
+[memebox]
+source = "github"
+github = "negue/meme-box"
+use_max_tag = true
+
+[otti]
+source = "github"
+github = "dnaka91/otti"
+use_max_tag = true
+prefix = "v"
+
+[wazzup]
+source = "github"
+github = "dnaka91/wazzup"
+use_max_tag = true
+prefix = "v"
