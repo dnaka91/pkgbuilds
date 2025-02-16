@@ -32,9 +32,33 @@ source = "github"
 github = "negue/meme-box"
 use_max_tag = true
 
+[obs-advanced-masks]
+source = "github"
+github = "FiniteSingularity/obs-advanced-masks"
+use_max_tag = true
+prefix = "v"
+
 [obs-composite-blur]
 source = "github"
 github = "FiniteSingularity/obs-composite-blur"
+use_max_tag = true
+prefix = "v"
+
+[obs-noise]
+source = "github"
+github = "FiniteSingularity/obs-noise"
+use_max_tag = true
+prefix = "v"
+
+[obs-retro-effects]
+source = "github"
+github = "FiniteSingularity/obs-retro-effects"
+use_max_tag = true
+prefix = "v"
+
+[obs-stroke-glow-shadow]
+source = "github"
+github = "FiniteSingularity/obs-stroke-glow-shadow"
 use_max_tag = true
 prefix = "v"
 
