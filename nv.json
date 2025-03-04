@@ -38,10 +38,10 @@
       "url": "https://github.com/FiniteSingularity/obs-advanced-masks/releases/tag/v1.1.0"
     },
     "obs-composite-blur": {
-      "version": "1.1.0",
-      "gitref": "refs/tags/v1.1.0",
-      "revision": "b65fa3c320de1a9121bb69539b676c95f99d5013",
-      "url": "https://github.com/FiniteSingularity/obs-composite-blur/releases/tag/v1.1.0"
+      "version": "1.5.1",
+      "gitref": "refs/tags/v1.5.1",
+      "revision": "adaeef80f8216e0852e2dace66abb51606ad6373",
+      "url": "https://github.com/FiniteSingularity/obs-composite-blur/releases/tag/v1.5.1"
     },
     "obs-noise": {
       "version": "1.0.0",
@@ -56,10 +56,10 @@
       "url": "https://github.com/FiniteSingularity/obs-retro-effects/releases/tag/1.0.0"
     },
     "obs-stroke-glow-shadow": {
-      "version": "1.0.2",
-      "gitref": "refs/tags/v1.0.2",
-      "revision": "8404a32731d0a60dd04e3abe259c45afa8e8211e",
-      "url": "https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/tag/v1.0.2"
+      "version": "1.5.1",
+      "gitref": "refs/tags/v1.5.1",
+      "revision": "68010673c70028876ffaace8dc3b8d2f4fbf02a1",
+      "url": "https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/tag/v1.5.1"
     },
     "otti": {
       "version": "0.2.7",
