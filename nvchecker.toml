@@ -21,12 +21,6 @@ use_max_tag = true
 from_pattern = '(\d{4})-(\d{2})-(\d{2})'
 to_pattern = '\1.\2.\3'
 
-[llvm-cov-pretty]
-source = "github"
-github = "dnaka91/llvm-cov-pretty"
-use_max_tag = true
-prefix = "v"
-
 [memebox]
 source = "github"
 github = "negue/meme-box"
