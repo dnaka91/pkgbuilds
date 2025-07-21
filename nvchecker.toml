@@ -62,6 +62,13 @@ github = "dnaka91/otti"
 use_max_tag = true
 prefix = "v"
 
+[protomd]
+source = "gitea"
+gitea = "dnaka91/protomd"
+use_max_tag = true
+prefix = "v"
+host = "forge.dnaka91.rocks"
+
 [wazzup]
 source = "github"
 github = "dnaka91/wazzup"

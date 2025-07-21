@@ -14,10 +14,10 @@
       "url": "https://github.com/dnaka91/ffprog/releases/tag/v0.1.3"
     },
     "graphite-grub-theme": {
-      "version": "2024.07.15",
-      "gitref": "refs/tags/2024-07-15",
-      "revision": "4d567bf7bd238051687f57a7a561848c3669d70a",
-      "url": "https://github.com/vinceliuice/Graphite-gtk-theme/releases/tag/2024-07-15"
+      "version": "2025.07.06",
+      "gitref": "refs/tags/2025-07-06",
+      "revision": "dcf832aad8461053938d60fc8b3e10567657e959",
+      "url": "https://github.com/vinceliuice/Graphite-gtk-theme/releases/tag/2025-07-06"
     },
     "llvm-cov-pretty": {
       "version": "0.1.10",
@@ -66,6 +66,11 @@
       "gitref": "refs/tags/v0.2.7",
       "revision": "ccdd908b6a82faa3d1df6bf8fe6a8987981d1ab9",
       "url": "https://github.com/dnaka91/otti/releases/tag/v0.2.7"
+    },
+    "protomd": {
+      "version": "0.2.0",
+      "revision": "2361d8727b53d650f6a35eee8b2e75e32393d869",
+      "url": "https://forge.dnaka91.rocks/dnaka91/protomd/releases/tag/v0.2.0"
     },
     "wazzup": {
       "version": "0.4.2",
