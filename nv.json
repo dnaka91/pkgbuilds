@@ -32,10 +32,10 @@
       "url": "https://github.com/negue/meme-box/releases/tag/2022.1.1"
     },
     "obs-advanced-masks": {
-      "version": "1.5.2",
-      "gitref": "refs/tags/v1.5.2",
-      "revision": "ae0cd18f8abdf0e995e86fcc04016ebc8360d135",
-      "url": "https://github.com/FiniteSingularity/obs-advanced-masks/releases/tag/v1.5.2"
+      "version": "1.5.3",
+      "gitref": "refs/tags/v1.5.3",
+      "revision": "ba59defa253be154a9cfbce89499857db3226642",
+      "url": "https://github.com/FiniteSingularity/obs-advanced-masks/releases/tag/v1.5.3"
     },
     "obs-composite-blur": {
       "version": "1.5.1",
