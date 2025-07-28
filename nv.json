@@ -38,10 +38,10 @@
       "url": "https://github.com/FiniteSingularity/obs-advanced-masks/releases/tag/v1.5.3"
     },
     "obs-composite-blur": {
-      "version": "1.5.1",
-      "gitref": "refs/tags/v1.5.1",
-      "revision": "adaeef80f8216e0852e2dace66abb51606ad6373",
-      "url": "https://github.com/FiniteSingularity/obs-composite-blur/releases/tag/v1.5.1"
+      "version": "1.5.2",
+      "gitref": "refs/tags/v1.5.2",
+      "revision": "160f7ad4d464e85e24894187244cf71a3913aea9",
+      "url": "https://github.com/FiniteSingularity/obs-composite-blur/releases/tag/v1.5.2"
     },
     "obs-noise": {
       "version": "1.0.0",
