@@ -50,10 +50,10 @@
       "url": "https://github.com/FiniteSingularity/obs-noise/releases/tag/v1.0.0"
     },
     "obs-retro-effects": {
-      "version": "1.0.1",
-      "gitref": "refs/tags/1.0.1",
-      "revision": "1bb2e2888e95e3380a47b6a68a4a44d12f207305",
-      "url": "https://github.com/FiniteSingularity/obs-retro-effects/releases/tag/1.0.1"
+      "version": "1.0.2",
+      "gitref": "refs/tags/1.0.2",
+      "revision": "35e9616a6f08692777578e3559d464ff8705929e",
+      "url": "https://github.com/FiniteSingularity/obs-retro-effects/releases/tag/1.0.2"
     },
     "obs-stroke-glow-shadow": {
       "version": "1.5.3",
