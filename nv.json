@@ -68,9 +68,9 @@
       "url": "https://github.com/dnaka91/otti/releases/tag/v0.2.7"
     },
     "protomd": {
-      "version": "0.2.0",
-      "revision": "2361d8727b53d650f6a35eee8b2e75e32393d869",
-      "url": "https://forge.dnaka91.rocks/dnaka91/protomd/releases/tag/v0.2.0"
+      "version": "0.2.2",
+      "revision": "bbaa91c6e9cae23264c64cd17911e7f41a3e61c7",
+      "url": "https://forge.dnaka91.rocks/dnaka91/protomd/releases/tag/v0.2.2"
     },
     "wazzup": {
       "version": "0.4.2",
